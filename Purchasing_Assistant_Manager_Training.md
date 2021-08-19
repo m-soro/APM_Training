@@ -82,7 +82,9 @@ Receiving Summary Report > Sort by Users
 2. Attendance - Need 2 reports
 
 	2.1 Hours Worked Summary -- Sunday to Saturday
+	
 	2.2 Time Log with Edits -- Sunday to Saturday
+	
 	2.3 `Generate`
 
 3.`HOME`
@@ -101,10 +103,7 @@ Receiving Summary Report > Sort by Users
 
 ### Schedule
 
-1. In ADP
-```
-Employee Management Tools > Search > Add time on the left screen then print
-```
+1. In ADP `Employee Management Tools > Search > Add time on the left screen then print`
 
 2. Scan then send to Director of Finance
 
