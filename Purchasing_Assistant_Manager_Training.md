@@ -80,6 +80,7 @@ Receiving Summary Report > Sort by Users
 1. `ADP > HOME > Time Card Editor > Search`
 
 2. Attendance - Need 2 reports
+
 	2.1 Hours Worked Summary -- Sunday to Saturday
 	2.2 Time Log with Edits -- Sunday to Saturday
 	2.3 `Generate`
