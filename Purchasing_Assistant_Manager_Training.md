@@ -9,12 +9,12 @@
 
 4. Meetings
 
-5. [Amazon Purchases](#amazon-purchases) [Credit Card Purchases](#credit_card_purchases)
+5. [Amazon Purchases](#amazon-purchases) [Credit Card Purchases](#credit-card-purchases)
 
 6. Mailings
-	6.1 [Fedex Account](#fedex_account)
+	6.1 [Fedex Account](#fedex-account)
 
-7. [Non-Food Orders/Bills/Invoices](#after_po_approvals)
+7. [Non-Food Orders/Bills/Invoices](#after-po-approvals)
 
 8. Passwords - In secure location
 
@@ -26,7 +26,7 @@
 
 12. [Schedule](#schedule)
 
-13. [Order Transmissions](#order_transmissions)
+13. [Order Transmissions](#order-transmissions)
 
 ---
 
