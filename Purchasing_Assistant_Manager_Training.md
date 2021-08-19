@@ -1,6 +1,6 @@
 ## Topics
 
-1. What are the days vendors will deliver?
+1. [What are the days vendors will deliver](#vendor-delivery-days)?
 
 2. Vendors/Items not in Adaco
 
@@ -152,4 +152,16 @@ Employee Management Tools > Search > Add time on the left screen then print
 
 ---
 
+### Vendor Delivery Days
+
+| VENDORS          | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|------------------|-----|-----|-----|-----|-----|-----|-----|
+| Coastal          |     |     |     |     |     |     |     |
+| Metro            |     |     |     |     |     |     |     |
+| Profish          |     |     |     |     |     |     |     |
+| Chef's Warehouse |     |     |     |     |     |     |     |
+
+[top](#topics)
+
+---
 
