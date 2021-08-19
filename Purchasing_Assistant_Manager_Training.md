@@ -9,7 +9,7 @@
 
 4. Meetings
 
-5. [Amazon Purchases](#amazon_purchases) [Credit Card Purchases](#credit_card_purchases)
+5. [Amazon Purchases](#amazon-purchases) [Credit Card Purchases](#credit_card_purchases)
 
 6. Mailings
 	6.1 [Fedex Account](#fedex_account)
