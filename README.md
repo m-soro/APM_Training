@@ -1,2 +1,5 @@
-# Purchasing_Assistant_Manager_Training
+# Purchasing Assistant Manager Training
+
 My Notes to self, while Purchasing Manager is on vacation for two weeks.
+
+
