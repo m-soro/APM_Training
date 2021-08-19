@@ -157,10 +157,11 @@ Receiving Summary Report > Sort by Users
 
 | VENDORS          | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------------------|-----|-----|-----|-----|-----|-----|-----|
-| Coastal          |     |     |     |     |     |     |     |
-| Metro            |     |     |     |     |     |     |     |
-| Profish          |     |     |     |     |     |     |     |
-| Chef's Warehouse |     |     |     |     |     |     |     |
+| Coastal          | Yes | Yes | Yes | No  | Yes | No  | No  |
+| Metro            | Yes | No  | Yes | No  | Yes | No  | No  |
+| Profish          | Yes | Yes | Yes | Yes | Yes | No  | No  |
+| Chef's Warehouse | Yes | Yes | Yes | Yes | Yes | No  | No  |
+| Keany            | Yes | Yes | Yes | Yes | Yes | No  | No  |
 
 [top](#topics)
 
