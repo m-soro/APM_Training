@@ -10,6 +10,7 @@
 4. Meetings
 
 5.1 [Amazon Purchases](#amazon-purchases) 
+
 5.2 [Credit Card Purchases](#credit-card-purchases)
 
 6. Mailings
@@ -39,11 +40,13 @@ Custom reports > Receiving Variance Report >
 Receiving Summary Report > Sort by Users
 ```
 * Use the category guide to **annotate receiving variances**
----
+
 
 ## Every Tuesday
 
 * Check for **US Foods Exceptions**
+
+[top](#)
 
 ---
 
@@ -55,6 +58,10 @@ Receiving Summary Report > Sort by Users
 * Do not transmit yet, will need snip -- *all of the manual transmission*
 * Send to AP
 
+[top](#)
+
+---
+
 ### Order Transmissions
 
 | VENDOR       | TRANSMIT TO               |
@@ -64,6 +71,8 @@ Receiving Summary Report > Sort by Users
 | Office Depot | Office Depot transmission |
 | Grainger     | Email                     |
 | Wasserstrom  | Email                     |
+
+[top](#)
 
 ---
 
@@ -86,6 +95,8 @@ Receiving Summary Report > Sort by Users
 
 6. Authorization of Overtime -- if any, a .docx file 
 
+[top](#)
+
 ---
 
 ### Schedule
@@ -96,6 +107,8 @@ Employee Management Tools > Search > Add time on the left screen then print
 ```
 
 2. Scan then send to Director of Finance
+
+[top](#)
 
 ---
 
@@ -113,6 +126,8 @@ Employee Management Tools > Search > Add time on the left screen then print
 3. `Billing details > Mandarin Purchasing or if they have an account #`
 4. Print Label and Receipt
 
+[top](#)
+
 ---
 
 ### Amazon Purchases 
@@ -124,6 +139,8 @@ Employee Management Tools > Search > Add time on the left screen then print
 5. Print then Keep a copy
 6. **Everything purchased with a credit card** needs **Credit Card Use Approval Form**
 
+[top](#)
+
 ---
 
 ### Credit Card Purchases
@@ -131,6 +148,8 @@ Employee Management Tools > Search > Add time on the left screen then print
 1. Using the Approved PO, find attached quote and shopping cart
 2. Proceed to website and purchase
 3. **Everything purchased with a credit card** needs **Credit Card Use Approval Form**
+
+[top](#)
 
 ---
 
