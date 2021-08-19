@@ -46,7 +46,7 @@ Receiving Summary Report > Sort by Users
 
 * Check for **US Foods Exceptions**
 
-[top](#)
+[top](#topics)
 
 ---
 
@@ -58,8 +58,7 @@ Receiving Summary Report > Sort by Users
 * Do not transmit yet, will need snip -- *all of the manual transmission*
 * Send to AP
 
-[top](#)
-
+[top](#topics)
 ---
 
 ### Order Transmissions
@@ -72,7 +71,7 @@ Receiving Summary Report > Sort by Users
 | Grainger     | Email                     |
 | Wasserstrom  | Email                     |
 
-[top](#)
+[top](#topics)
 
 ---
 
@@ -95,7 +94,7 @@ Receiving Summary Report > Sort by Users
 
 6. Authorization of Overtime -- if any, a .docx file 
 
-[top](#)
+[top](#topics)
 
 ---
 
@@ -108,7 +107,7 @@ Employee Management Tools > Search > Add time on the left screen then print
 
 2. Scan then send to Director of Finance
 
-[top](#)
+[top](#topics)
 
 ---
 
@@ -126,7 +125,7 @@ Employee Management Tools > Search > Add time on the left screen then print
 3. `Billing details > Mandarin Purchasing or if they have an account #`
 4. Print Label and Receipt
 
-[top](#)
+[top](#topics)
 
 ---
 
@@ -139,7 +138,7 @@ Employee Management Tools > Search > Add time on the left screen then print
 5. Print then Keep a copy
 6. **Everything purchased with a credit card** needs **Credit Card Use Approval Form**
 
-[top](#)
+[top](#topics)
 
 ---
 
@@ -149,7 +148,7 @@ Employee Management Tools > Search > Add time on the left screen then print
 2. Proceed to website and purchase
 3. **Everything purchased with a credit card** needs **Credit Card Use Approval Form**
 
-[top](#)
+[top](#topics)
 
 ---
 
