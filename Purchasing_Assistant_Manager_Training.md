@@ -7,7 +7,7 @@
 3. BEO/Bagels/Special order items for events
 	* Chefs to order
 
-4. Meetings
+4. What [Meetings](#meetings) to attend?
 
 5.1 [Amazon Purchases](#amazon-purchases) 
 
@@ -31,6 +31,7 @@
 
 13. [Order Transmissions](#order-transmissions)
 
+14. [Email Invoices](#invoices)
 ---
 
 ## Everyday
@@ -164,4 +165,5 @@ Receiving Summary Report > Sort by Users
 [top](#topics)
 
 ---
+### Meetings
 
