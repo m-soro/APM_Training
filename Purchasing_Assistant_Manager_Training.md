@@ -68,10 +68,7 @@ Receiving Summary Report > Sort by Users
 
 ### Payroll
 
-1. 
-```
-ADP > HOME > Time Card Editor > Search
-```
+1. `ADP > HOME > Time Card Editor > Search`
 
 2. Attendance - Need 2 reports
 	2.1 Hours Worked Summary -- Sunday to Saturday
@@ -133,5 +130,7 @@ Employee Management Tools > Search > Add time on the left screen then print
 1. Using the Approved PO, find attached quote and shopping cart
 2. Proceed to website and purchase
 3. **Everything purchased with a credit card** needs **Credit Card Use Approval Form**
+
+---
 
 
