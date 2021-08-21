@@ -82,9 +82,9 @@ Receiving Summary Report > Sort by Users
 
 2. Attendance - Need 2 reports
 
-	2.1 Hours Worked Summary -- Sunday to Saturday
+	2.1 Hours Worked Summary -- Change date from current Sunday to Saturday
 	
-	2.2 Time Log with Edits -- Sunday to Saturday
+	2.2 Time Log with Edits -- Change date from current Sunday to Saturday
 	
 	2.3 `Generate`
 
