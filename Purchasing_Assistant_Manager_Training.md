@@ -78,6 +78,8 @@ Receiving Summary Report > Sort by Users
 
 ### Payroll
 
+[ADP LINK](https://timesaver.adp.com/i14/fw0s/TS/login.php)
+
 1. `ADP > HOME > Time Card Editor > Search`
 
 2. Attendance - Need 2 reports
